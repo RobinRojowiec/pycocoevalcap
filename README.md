@@ -17,7 +17,7 @@ Caption evaluation depends on the COCO API that natively supports Python 3 (see 
 ## Installation ##
 To install pycocoevalcap and the pycocotools dependency, run:
 ```
-pip install git+https://github.com/salaniz/pycocoevalcap
+pip install git+https://github.com/RobinRojowiec/pycocoevalcap
 ```
 
 ## Files ##
